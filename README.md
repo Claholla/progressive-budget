@@ -3,11 +3,13 @@
   
   ## Description
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   This application uses PWA functionality to allow the user to log positive and negative transactions whether they are connected to the internet, or away from a connection. It updates the online version of the database when a connection is found from a state of offline use.
   
-  ## Screenshot (Deployed Application)
+  ## Deployed Application
   ![PWA-screenshot](https://user-images.githubusercontent.com/80665978/133908098-cc77f905-56a1-4f0b-9bc0-4cb36b0fc0c3.png)
-
+  https://still-anchorage-04366.herokuapp.com/
+  
   ## Table of Contents
 
   - [Installation](#installation)
